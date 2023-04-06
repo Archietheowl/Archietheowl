@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Archietheowl
 - 👀 I’m interested in accessability, inclusion, edTech, personal developement, learning new skills (especially in relation to software developement). 
-- 🌱 I’m currently learning HTML, CSS, Java, design principles, Python.
+- 🌱 I'm currently developing my skills with MySQL and the Flask framework.
 - 💞️ I’m looking to collaborate on not much at the moment. Just getting used to gitHub for version control and keeping track of my own projects. 
 
 <!---
